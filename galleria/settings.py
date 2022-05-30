@@ -30,9 +30,9 @@ DEBUG = config('DEBUG', default=False, cast=bool)
 
 # adding config
 cloudinary.config( 
-  cloud_name = config('CLOUD_NAME'), 
-  api_key = config('CLOUD_API'),
-  api_secret = config('API_SECRET'),
+  cloud_name = "dirn2jjxz", 
+  api_key = "197792651675556", 
+  api_secret = "uxTtAjUqo0Nl-q2ttUpDH9gCjEM" 
 )
 
 # development
