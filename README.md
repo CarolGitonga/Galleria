@@ -67,7 +67,7 @@ $ sudo apt-get install postgresql postgresql-contrib libpq-dev
 
 ### Django Admin
 Username: carol
-Password:<password>
+
 
 ### Live link
 You can view the live site [here]()
