@@ -70,7 +70,7 @@ Username: carol
 
 
 ### Live link
-You can view the live site [here]()
+You can view the live site [here](https://carolgalleria.herokuapp.com/)
 
 ## License
 * *MIT License:*
